@@ -20,8 +20,18 @@ body{
     background-size: cover;
     
 }
+
+.logo{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.185);
+    border-radius: 50%;
+    width: 284px;
+    height: 306px;
+
+}
+
 .banner-content img{
-    padding-top: 5.5em;
+    padding-top: 3.5em;
 }
 
 .banner-content h1{
